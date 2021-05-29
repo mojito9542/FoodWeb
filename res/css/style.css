@@ -15,7 +15,7 @@ html{
 }
 
 .row{
-    max-width: 1140px;
+    max-width: auto;
     margin: 0 auto;
 }
 
